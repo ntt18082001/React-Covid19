@@ -2,7 +2,7 @@
   "name": "app-covid",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ntt18082001.github.io/React-Covid19/",
+  "homepage": "https://ntt18082001.github.io/React-Covid19",
   "dependencies": {
     "@fontsource/roboto": "^4.5.0",
     "@highcharts/map-collection": "^1.1.3",
